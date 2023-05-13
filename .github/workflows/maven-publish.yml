@@ -21,6 +21,6 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
     - name: Run Java
-      run: java -jar ./target/weatherActions-1.0-SNAPSHOT.jar
+      run: java -jar ./target/VxMessageActions-1.0-SNAPSHOT.jar
       
     
