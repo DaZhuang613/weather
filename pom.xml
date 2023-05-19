@@ -68,7 +68,7 @@
                 <version>2.2.2.RELEASE</version>
                 <configuration>
                     <includeSystemScope>true</includeSystemScope>
-                    <mainClass>cn.hncj.VxMessageMain</mainClass>
+                    <mainClass>VxMessageMain</mainClass>
                 </configuration>
                 <executions>
                     <execution>
