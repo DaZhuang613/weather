@@ -41,8 +41,8 @@ public class WechatConfig {
                 "oRJys6V5C3AE_kwJLexChsIQKKIw", //扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "iDxv1_kGZPjXa-eHOSGOAUJRZmVfnvKY9vWPP-alH18", //要给这个人发送的模板ID
                 "壮壮同学", //咋称呼这个人
-                "河南省平顶山市新华区", //这个人的详细地址
-                "平顶山", //这个人在的城市
+                "上海市普陀区", //这个人的详细地址
+                "上海市", //这个人在的城市
                 new BirthDay(1998,6,13,true,false,"大壮生日快乐！！"),
                 new BirthDay(1998,7,12,true,false,"宝贝生日快乐哦~~"),
                 new BirthDay(2024,3,24,false,false,"周年快乐！！！"),
